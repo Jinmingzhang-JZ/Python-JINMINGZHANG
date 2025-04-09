@@ -13,3 +13,5 @@ ReadData.py
 groupData.py
 searchData.py
 Run Assignment2.py in CSV
+I confirm that this project is entirely my own work. All code was written by me, and any external libraries used are acknowledged below.
+
